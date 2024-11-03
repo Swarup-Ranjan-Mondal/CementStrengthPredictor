@@ -1,4 +1,4 @@
-# CementStrangthPredictor
+# CementStrengthPredictor
 
 Solve the problem of poor quality of Cement Mixures.
 This repository contains code and link to WebApp for 
